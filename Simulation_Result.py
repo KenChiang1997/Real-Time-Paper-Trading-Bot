@@ -65,7 +65,7 @@ app.layout = html.Div([
 
                   html.A(id = 'gh-link', 
                          children = ['View on GitHub'], 
-                         href = "https://github.com/KenChiang1997", 
+                         href = "https://github.com/KenChiang1997/Real-Time-Paper-Trading-Bot", 
                          style = {'color': 'white', 
                                   'font-size': '15px', 
                                   'color': '#fff', 
