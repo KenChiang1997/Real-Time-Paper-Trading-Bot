@@ -13,11 +13,13 @@
 
 # Investment Strategy Research
 
-1.) Basic Distance Approach for Pairs Trading
+**1.) Basic Distance Approach for Pairs Trading**
 
+  1.1) Using Euclidean squared distance on the normalized price time for selecting trading pair.
 ![Screen Shot 2023-09-13 at 4 24 24 PM](https://github.com/KenChiang1997/Real-Time-Paper-Trading-Bot/assets/80143995/370fc40e-789e-4b33-9baf-26fd56d5c023)
 
-
+  1.2) Portfolio values series are differences between normalized price series of elements in a pair. ( long - short )
 ![Screen Shot 2023-09-13 at 4 25 41 PM](https://github.com/KenChiang1997/Real-Time-Paper-Trading-Bot/assets/80143995/baef0401-c54e-4ec9-8e38-4719a1c875bc)
 
+  1.3) Portfolio performance based on trading signal.
 ![Screen Shot 2023-09-13 at 4 26 03 PM](https://github.com/KenChiang1997/Real-Time-Paper-Trading-Bot/assets/80143995/bfcd58bb-5272-4c10-b8e7-a7e7387d91e6)
