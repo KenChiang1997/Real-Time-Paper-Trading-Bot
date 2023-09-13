@@ -1,4 +1,4 @@
-# Real-Time-Paper-Trading-
+# Real-Time-Paper-Trading and Investment Strategy Research
 
 1.) Fetch real-time crypto data from Binance-API, user need to paste his/her own api-key and api-secret. 
 
